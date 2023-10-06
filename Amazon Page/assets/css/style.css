@@ -60,6 +60,7 @@ main {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  border-radius: 25px;
 }
 .img-cont .img {
   width: 230px;
